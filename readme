@@ -10,3 +10,4 @@ add c
 add merge test
 a b c d e f g
 good
+add push test after new key
