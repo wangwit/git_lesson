@@ -4,3 +4,7 @@ add ddddddddd
 add eeeeeeeee
 add fffffffff
 master: mergetool test
+add a
+add b
+add c
+add merge test
